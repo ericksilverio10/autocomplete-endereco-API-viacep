@@ -96,7 +96,7 @@
     color:var(--primary-color);
 }
 #order-form-container input:focus{
-    transition: .6s ease-in-out;
+    transition: .4s ease-in-out;
     border: 2.5px solid var(--secondary-color);
 }
 #order-form-container select{
